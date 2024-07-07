@@ -1,0 +1,159 @@
+/* ÐºÐ¾Ð½ÑÐµÐ¹Ð½ÐµÑ, Ð² ÐºÐ¾ÑÐ¾ÑÐ¾Ð¼ ÑÐ¾Ð´ÐµÑÐ¶Ð¸ÑÑÑ Ð¿Ð»Ð°Ð³Ð¸Ð½ */
+.urfu-entrants-wrapper {
+    display: block;
+}
+
+.urfu-entrants-wrapper .message-box {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px 20px;
+    border-radius: 3px;
+}
+
+.urfu-entrants-wrapper .last-update-info-wrapper {
+    padding: 10px;
+}
+
+.urfu-entrants-wrapper .menu-wrapper {
+    text-align: center;
+    padding: 10px 0px;
+}
+
+/* Ð¼ÐµÐ½Ñ Ð²ÑÐ±Ð¾ÑÐ° Ð¿ÐµÑÐ²Ð¾Ð¹ Ð±ÑÐºÐ²Ñ ÑÐ°Ð¼Ð¸Ð»Ð¸Ð¸ */
+.urfu-entrants-wrapper .menu-wrapper .menu-letters .letter {
+    padding: 0px 20px 0px 0px;
+    font-size: 22px;
+}
+
+.urfu-entrants-wrapper .menu-wrapper .menu-letters .letter a {
+    color: #000;
+    text-decoration: none;
+    padding: 2px;
+}
+
+/* ÑÑÑÐ»ÐºÐ° "Ð½Ð°Ð·Ð°Ð´ Ðº Ð¼ÐµÐ½Ñ" */
+.urfu-entrants-wrapper .menu-wrapper .back-to-menu {
+    margin-bottom: 5px;
+}
+
+/* Ð¼ÐµÐ½Ñ Ð²ÑÐ±Ð¾ÑÐ° Ð¸Ð½ÑÑÐ¸ÑÑÑÐ° */
+.urfu-entrants-wrapper .menu-wrapper table.menu-departments {
+    border-collapse: collapse;
+    margin: 0px auto;
+    font-family: Tahoma,Verdana,Helvetica,sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    color: #000;
+}
+
+.urfu-entrants-wrapper .menu-wrapper table.menu-departments tr:nth-of-type(even) {
+    background-color: #FFF;
+}
+
+.urfu-entrants-wrapper .menu-wrapper table.menu-departments tr:nth-of-type(odd) {
+    background-color: #D8D9D9;
+}
+
+.urfu-entrants-wrapper .menu-wrapper table.menu-departments td {
+    padding: 5px 2px;
+    border: 1px solid #000;
+    vertical-align: middle;
+    text-align: left;
+    padding: 5px;
+}
+
+.urfu-entrants-wrapper .menu-wrapper table.menu-departments td ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none inside;
+    text-align: left;
+}
+
+.urfu-entrants-wrapper .menu-wrapper table.menu-departments td ul li {
+    margin: 0px;
+    padding: 3px 0px 3px 11px;
+}
+
+.urfu-entrants-wrapper .menu-wrapper table.menu-departments td ul li a {
+    color: #000;
+    text-decoration: underline;
+}
+
+/* Ð´Ð°ÑÐ° Ð¸ Ð²ÑÐµÐ¼Ñ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ³Ð¾ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐµÐ¹ÑÐ¸Ð½Ð³Ð° (ÑÐ¿Ð¸ÑÐºÐ°) */
+.urfu-entrants-wrapper .last-update-info {
+    text-align: right;
+    color: #aaa;
+    font-size: 12px;
+    font-style: italic;
+}
+
+/* ÐÐ¾Ð½ÑÐµÐ¹Ð½ÐµÑ Ð´Ð»Ñ ÑÐµÐ¹ÑÐ¸Ð½Ð³Ð¾Ð² */
+.urfu-entrants-wrapper .rating-container {
+    width: 90%;
+    margin: 0px auto;
+    font-family: Tahoma,Verdana,Helvetica,sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    color: #000;
+}
+
+.urfu-entrants-wrapper .rating-container ul {
+    list-style-type: none;
+}
+
+.urfu-entrants-wrapper .rating-container table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.urfu-entrants-wrapper .rating-container tr.tr-even {
+    background-color: #FFF;
+}
+
+.urfu-entrants-wrapper .rating-container tr.tr-odd {
+    background-color: #D8D9D9;
+}
+
+.urfu-entrants-wrapper .rating-container tr.tr-original {
+    /* yellow */
+    background-color: #fefea6;
+}
+
+.urfu-entrants-wrapper .rating-container tr.rating_mc {
+    /* green */
+    background-color: #82FA58 !important;
+}
+
+.urfu-entrants-wrapper .rating-container td,
+.urfu-entrants-wrapper .rating-container th {
+    padding: 5px 2px;
+    border: 1px solid #000;
+}
+
+.urfu-entrants-wrapper .rating-container td.td-center {
+    text-align: center;
+}
+
+.urfu-entrants-wrapper .rating-container .error {
+    text-align: center;
+    color: #F00;
+}
+
+
+/* ÑÐ¿Ð¸ÑÐºÐ¸ Ð·Ð°ÐºÐ»ÑÑÐµÐ½Ð½ÑÑ Ð´Ð¾Ð³Ð¾Ð²Ð¾ÑÐ¾Ð² */
+/* ÑÑÐ¸Ð»Ð¸ ÑÐºÐ¾Ð¿Ð¸ÑÐ¾Ð²Ð°Ð½Ñ Ñ ÑÐµÑÐ²ÐµÑÐ° okf */
+.urfu-entrants-wrapper .rating-container .contract-list-table {border-collapse:collapse;width:80%;margin:auto}
+.urfu-entrants-wrapper .rating-container .contract-list-table td,
+.urfu-entrants-wrapper .rating-container .contract-list-table th {border:1px solid #d3d3d3;padding:8px}
+.urfu-entrants-wrapper .rating-container .contract-list-table tr:nth-child(2n) {background-color:#f6f6f6}
+.urfu-entrants-wrapper .rating-container .contract-list-table tr:hover:not(tr:first-child) {background-color:#efefef}
+.urfu-entrants-wrapper .rating-container .contract-list-table th:first-child {width:10%}
+.urfu-entrants-wrapper .rating-container .contract-list-table th:last-child {width:15%}
+.urfu-entrants-wrapper .rating-container .contract-list-table td:last-child {text-align:center}
+.urfu-entrants-wrapper .rating-container .contract-list-table caption {margin-top:20px;margin-bottom:20px;line-height:24px}
+.urfu-entrants-wrapper .rating-container .contract-list-table .danger {color:red}
+.urfu-entrants-wrapper .rating-container .contract-list-table .success {color:#228b22}
+.urfu-entrants-wrapper .rating-container .contract-list-table .tag {padding:5px 8px;background-color:#b6b6b6;color:#fff;border-radius:5px;text-transform:uppercase;font-size:12px;font-weight:700;width:80px;display:inline-block}
+.urfu-entrants-wrapper .rating-container .contract-list-table .tag.success {background-color:#228b22}
+.urfu-entrants-wrapper .rating-container .contract-list-table .tag.info {background-color:#6495ed}
