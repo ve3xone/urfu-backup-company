@@ -7,6 +7,39 @@
 
 Просто урфу зачем то это удаляют, скорее всего из-за СНИЛСа.
 
+## [Обновляемые бэкапы](https://github.com/ve3xone/urfu-backup-company/tree/history):
+
+- [Итог 2023](https://github.com/ve3xone/urfu-backup-company/tree/history/itog_2023):
+    - [Итоговый рейтинг бюджета (Бакалавриат и что-то ещё) [ratings-today]](https://github.com/ve3xone/urfu-backup-company/tree/history/itog_2023/ratings-today/03-08-2023/HTML):
+        - Институт естественных наук и математики (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт%20естественных%20наук%20и%20математики__Очная__03-08-2023__18-11-18.html)
+        - Институт новых материалов и технологий (Заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт новых материалов и технологий__Заочная__03-08-2023__18-08-52.html)
+        - Институт новых материалов и технологий (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт новых материалов и технологий__Очная__03-08-2023__18-11-17.html)
+        - Институт новых материалов и технологий (Очно-заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт новых материалов и технологий__Очно-заочная__03-08-2023__18-10-50.html)
+        - Институт радиоэлектроники и информационных технологий - РтФ (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт радиоэлектроники и информационных технологий - РтФ__Очная__03-08-2023__18-11-18.html)
+        - Институт строительства и архитектуры (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт строительства и архитектуры__Очная__03-08-2023__18-11-18.html)
+        - Институт строительства и архитектуры (Очно-заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт строительства и архитектуры__Очно-заочная__03-08-2023__18-10-50.html)
+        - Институт физической культуры, спорта и молодежной политики (Заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт физической культуры, спорта и молодежной политики__Заочная__03-08-2023__18-08-52.html)
+        - Институт физической культуры, спорта и молодежной политики (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт физической культуры, спорта и молодежной политики__Очная__03-08-2023__18-11-17.html)
+        - Институт фундаментального образования (Заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт фундаментального образования__Заочная__03-08-2023__18-08-52.html)
+        - Институт фундаментального образования (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт фундаментального образования__Очная__03-08-2023__18-11-18.html)
+        - Институт экономики и управления (Заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт экономики и управления__Заочная__03-08-2023__18-08-52.html)
+        - Институт экономики и управления (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт экономики и управления__Очная__03-08-2023__18-11-18.html)
+        - Уральская передовая инженерная школа (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Уральская передовая инженерная школа__Очная__03-08-2023__18-11-18.html)
+        - Уральский гуманитарный институт (Заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Уральский гуманитарный институт__Заочная__03-08-2023__18-08-52.html)
+        - Уральский гуманитарный институт (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Уральский гуманитарный институт__Очная__03-08-2023__18-11-18.html)
+        - Уральский гуманитарный институт (Очно-заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Уральский гуманитарный институт__Очно-заочная__03-08-2023__18-10-50.html)
+        - Уральский энергетический институт (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Уральский энергетический институт__Очная__03-08-2023__18-11-19.html)
+        - Физико-технологический институт (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Физико-технологический институт__Очная__03-08-2023__18-11-18.html)
+        - Филиал в г. Верхняя Салда (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Филиал в г. Верхняя Салда__Очная__03-08-2023__18-11-18.html)
+        - Филиал в г. Верхняя Салда (Очно-заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Филиал в г. Верхняя Салда__Очно-заочная__03-08-2023__18-10-50.html)
+        - Филиал в г. Каменск-Уральский (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Филиал в г. Каменск-Уральский__Очная__03-08-2023__18-11-18.html)
+        - Филиал в г. Нижний Тагил (Заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Филиал в г. Нижний Тагил__Заочная__03-08-2023__18-08-52.html)
+        - Филиал в г. Нижний Тагил (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Филиал в г. Нижний Тагил__Очная__03-08-2023__18-11-17.html)
+        - Филиал в г. Нижний Тагил (Очно-заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Филиал в г. Нижний Тагил__Очно-заочная__03-08-2023__18-10-50.html)
+        - Химико-технологический институт (Заочная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Химико-технологический институт__Заочная__03-08-2023__18-08-52.html)
+        - Химико-технологический институт (Очная) (https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Химико-технологический институт__Очная__03-08-2023__18-11-18.html)
+    - Скоро ещё добавлю
+
 ## Насчет кода
 
 Код писался на пофиг, чтоб быстро всё это бэкапнуть. Переписывать я его не буду, лень, и не зачем.
