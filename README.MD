@@ -11,7 +11,7 @@
 
 - [Итог 2023](https://github.com/ve3xone/urfu-backup-company/tree/history/itog_2023):
 
-    - [Итоговый рейтинг бюджета (Бакалавриат и что-то ещё) [ratings-today]](https://github.com/ve3xone/urfu-backup-company/tree/history/itog_2023/ratings-today/03-08-2023/HTML):
+    - [Итоговый конкурсные списки (бакалавриат/специалитет, бюджет) [ratings-today]](https://github.com/ve3xone/urfu-backup-company/tree/history/itog_2023/ratings-today/03-08-2023/HTML):
 
         - [Институт естественных наук и математики (Очная)](https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт%20естественных%20наук%20и%20математики__Очная__03-08-2023__18-11-18.html)
         - [Институт новых материалов и технологий (Заочная)](https://ve3xone.github.io/urfu-backup-company/itog_2023/ratings-today/03-08-2023/HTML/Институт%20новых%20материалов%20и%20технологий__Заочная__03-08-2023__18-08-52.html)
